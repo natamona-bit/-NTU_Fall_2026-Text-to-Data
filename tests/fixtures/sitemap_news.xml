@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url><loc>https://ex.com/news/content/1</loc><news:news><news:publication_date>2017-01-05T10:00:00+07:00</news:publication_date><news:title>แรงงานเมียนมาแห่ต่อใบอนุญาตทำงาน</news:title></news:news></url>
+<url><loc>https://ex.com/news/content/2</loc><news:news><news:publication_date>2017-01-06T10:00:00+07:00</news:publication_date><news:title>ราคาทองคำวันนี้ปรับขึ้น</news:title></news:news></url>
+<url><loc>https://ex.com/news/content/3</loc><news:news><news:publication_date>2016-12-31T10:00:00+07:00</news:publication_date><news:title>ผู้ลี้ภัยโรฮิงญาขึ้นฝั่ง</news:title></news:news></url>
+</urlset>
