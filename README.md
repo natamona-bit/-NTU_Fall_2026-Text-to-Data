@@ -16,6 +16,10 @@ outlets and saves them as one tidy table (one row per article).
 Bangkok Post and The Nation publish in English, so they are searched and
 filtered with the English keyword list in `R/keywords.R`.
 
+**Alternative source: GDELT.** `run_gdelt.R` builds the same sample (same
+outlets, dates and keywords) from the GDELT Project's news database on Google
+BigQuery, without scraping the sites. See [GDELT.md](GDELT.md).
+
 ## Quick start
 
 1. Install R (≥ 4.2) and, ideally, RStudio.
@@ -117,6 +121,8 @@ meta-tag extraction. Run `--diagnose` first: it prints a sample headline, date,
 author and body length for each outlet.
 
 ## Tests
+
+`Rscript tests/test_gdelt_offline.R` tests the GDELT route.
 
 `Rscript tests/test_offline.R` checks extraction, Thai date parsing, keyword
 matching, sitemap filtering and robots.txt handling on local sample pages.

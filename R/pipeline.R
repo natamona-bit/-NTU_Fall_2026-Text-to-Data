@@ -100,3 +100,10 @@ diagnose_sites <- function(outlet_ids = names(OUTLETS)) {
     }
   }
 }
+
+# GDELT route (run_gdelt.R): the scraper's settings and helpers plus the GDELT files.
+load_gdelt <- function(root = ".") {
+  load_scraper(root)
+  for (f in c("gdelt_config.R", "gdelt_bigquery.R", "gdelt_parse.R", "gdelt_fulltext.R", "gdelt_doc.R"))
+    source(file.path(root, "R", f), encoding = "UTF-8")
+}
