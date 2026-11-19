@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url><loc>https://www.thairath.co.th/news/local/1581000</loc><changefreq>hourly</changefreq><priority>0.80</priority>
+<image:image><image:loc>https://static.thairath.co.th/media/a.jpg</image:loc><image:title>จับแรงงานเมียนมาลักลอบเข้าเมือง 30 คน</image:title><image:caption>ภาพประกอบ</image:caption></image:image></url>
+<url><loc>https://www.thairath.co.th/news/crime/1581591</loc><changefreq>hourly</changefreq><priority>0.80</priority>
+<image:image><image:loc>https://static.thairath.co.th/media/b.jpg</image:loc><image:title>ฉุนพ่อเลี้ยง ไม่ให้เงิน</image:title></image:image></url>
+<url><loc></loc><changefreq>hourly</changefreq></url>
+<url><loc>https://www.thairath.co.th/horoscope/daily/2861761</loc><image:image><image:title>ดูดวงพม่า</image:title></image:image></url>
+</urlset>

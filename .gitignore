@@ -3,3 +3,6 @@ data/output/
 .Rhistory
 .RData
 .Rproj.user/
+thairath/cache/
+thairath/output/
+thairath/output_test/
